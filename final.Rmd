@@ -3,7 +3,7 @@ title: "A study of risk of fatal accidents for men and women based on UK road ac
 author: 'Liyuan Cao'
 date: "Dec 21, 2020"
 abstract: |
-  |   This study is aimed to investigate the questions of interest that whether women tends to be safer than men as pedestrians especially for teenagers in early adulthood. The goal of the study is try to apply statistical models such as  logistic model to answer the question of interest based on the UK road accident data. This study found that the women in teenagers or in early adulthood are indeed tend to be more safer than men as pedestrians that shows a significant lower proportion involved in fatal accidents.
+  |   This study aims to investigate risk of fatal accidents for men and women based on UK road accident data. This study applied logistic models and random effects models to do the tasks. It was found that the difference in risks of fatal accidents for each additonal year old in age is huge between males and females, the females after 30 years old is much more safer than males after 20  years old. However, it was also found for young females, the risk of fatal accidents is higher than males for each additional year old in age before 10 years old. Also, the study found the road is more safer in now days compared with past years and Aug is most unsafe month in a year.
   |
   | **Keywords:**  road accidents; fatal accidents; logistic model; mixed effects model;
 output:
